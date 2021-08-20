@@ -1,31 +1,28 @@
-### Hi there 👋
-<p>
-  <a href="http://jayleenym.github.io/" target="_blank"><img src="https://img.shields.io/badge/AboutMe-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-  <a href="mailto:jayleenym@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jayleenym@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yjmoon/" target="_blank"><img src="https://img.shields.io/badge/YejinMoon-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-</p>
+<div align=center>
 
-<p>
-  I'm a student studying <b>ML/DL and Data Engineering</b>.📚<br/>
-<!--   Sometimes I develop cross-platforms like ReactNative or Flutter, but prefer native. 💖<br/><br/> -->
-<!--   I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/> -->
-<!--   I hope to develop every beautiful things. ✨ <br/><br/> -->
-</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjayleenm%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
-### 💪 Skills
-#### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
-</p>
+### Hi there 👋🏼
+- Studying **ML/DL and Data Engineering**
+- Leader of the data-science club, [BOAZ](https://www.facebook.com/BOAZbigdata)
+- [Google Developers ML Bootcamp](https://events.withgoogle.com/google-developers-mlb-kr-2021/)
 
-#### Tools
-<p>
-  <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Colab&logoColor=white"/>
-<!--   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/> -->
-<!--   <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/> -->
-<!--   <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/> -->
-<!--   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> -->
-</p>
+<div align=center>
+
+[![Jayleen's github stats](https://github-readme-stats.vercel.app/api?username=jayleenym)](https://github.com/jayleenym/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayleenym&layout=compact)](https://github.com/jayleenym/github-readme-stats)
+</div>
+  
+### Interest
+- Spark & Kafka
+- Google Cloud Platform
+- Recommendation System using NLP
+- Yoga, Jogging, Movies
+
+<div align=center>
+
+[![AboutMe Badge](http://img.shields.io/badge/-AboutMe-black?style=flat-square&logo=github&link=https://jayleenym.github.io/)](https://jayleenym.github.io/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yjmoon/)](https://www.linkedin.com/in/yjmoon/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayleenym@gmail.com)](mailto:jayleenym@gmail.com)
+</div>
