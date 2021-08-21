@@ -18,7 +18,7 @@
 - Spark & Kafka
 - Google Cloud Platform
 - Recommendation System using NLP
-- Yoga, Jogging, Movies
+- Yoga🧘🏻‍♀️, Jogging🏃🏻‍♀️, Movies🍿
 
 <div align=center>
 
