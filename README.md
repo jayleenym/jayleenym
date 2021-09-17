@@ -13,11 +13,13 @@
 [![Jayleen's github stats](https://github-readme-stats.vercel.app/api?username=jayleenym)](https://github.com/jayleenym/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayleenym&layout=compact)](https://github.com/jayleenym/github-readme-stats)
 </div>
-  
-### Interest
+
+### Studying 💻
 - Spark & Kafka
 - Google Cloud Platform
 - Recommendation System using NLP
+
+### Interest
 - Yoga🧘🏻‍♀️, Jogging🏃🏻‍♀️, Movies🍿
 
 <div align=center>
