@@ -14,9 +14,9 @@
 - Google Cloud Platform
 - Recommendation System using NLP
 
-### Interest
+<!-- ### Interest
 - Yoga🧘🏻‍♀️, Jogging🏃🏻‍♀️, Movies🍿
-
+ -->
 <div align=center>
 
 [![AboutMe Badge](http://img.shields.io/badge/-AboutMe-black?style=flat-square&logo=github&link=https://jayleenym.github.io/)](https://jayleenym.github.io/) 
