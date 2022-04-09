@@ -12,7 +12,6 @@
 ### Studying 💻
 - Spark & Kafka
 - Google Cloud Platform
-- Recommendation System using NLP
 
 <!-- ### Interest
 - Yoga🧘🏻‍♀️, Jogging🏃🏻‍♀️, Movies🍿
