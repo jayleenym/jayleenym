@@ -1,6 +1,6 @@
 ### Hi there 👋🏼
 - Studying **ML/DL and Data Engineering**
-- Leader of the data-science club, [BOAZ](https://www.facebook.com/BOAZbigdata)
+- Led a data-science club, [BOAZ](https://github.com/BOAZ-bigdata)
 - [Google Developers ML Bootcamp](https://events.withgoogle.com/google-developers-mlb-kr-2021/)
 
 <div align=center>
